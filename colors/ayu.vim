@@ -167,7 +167,7 @@ exe "hi! Type"            .s:fg_tag       .s:bg_none        .s:fmt_none
 exe "hi! Structure"       .s:fg_special   .s:bg_none        .s:fmt_none
 "   Typedef"
 
-exe "hi! Special"         .s:fg_special   .s:bg_none        .s:fmt_ital
+exe "hi! Special"         .s:fg_special   .s:bg_none        .s:fmt_none
 "   SpecialChar"
 "   Tag"
 "   Delimiter"
